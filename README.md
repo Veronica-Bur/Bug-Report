@@ -43,9 +43,10 @@ ____
 # Act.: The text is truncated when you enter 50 + characters in the text field of the item in the Brisqi app.
 # Exp.: The text is put fully in the text field of the item in the Brisqi app.
 # Steps to reproduce: 
-1. Open Brisqu app;
+1. Open Brisqi app;
 2. Open any item;
 3. Put more than 50+ symbols in the text field of the description/comment section and click button "add";
 4. Bug appears.
 # Severity: Medium.
+![what is this](1.png)
 
