@@ -36,6 +36,7 @@ ____
 2. Go to ranked match, wait for acceptance, click button "accept'.
 3. Bug appears.
 # Severity: Medium.
+Comment: after last update this  bug was fixed.
 
 ## Bug ID: 4
 # Summary: Checking of the items of the Brisqi app.
@@ -49,4 +50,19 @@ ____
 4. Bug appears.
 # Severity: Medium.
 ![what is this](1.png)
+
+## Bug ID: 5
+# Summary: Checking of the fuctionality of АИС СОЮ (Автоматизированная информационная система судов общей юрисдикции).
+# Description: Cheking of the switching from one user to another. 
+# Act.: Switching from one user to another leads to incorect avatar display (shows avatar of the previous user).
+# Exp.: Switching from one user to another leads to correct display of avatar (current user).
+# Steps to reproduce: 
+1. Open web app;
+2. Authorization (Login, password);
+3. Click from main menu dropdown list button "exit';
+4. Authorize another user (Login, password);
+5. Bug appears.
+# Severity: Medium.
+
+
 
