@@ -25,3 +25,27 @@ ____
 3. Put text in the text field and click "Добавить"
 4. Bug appears.
 # Severity: High.
+
+## Bug ID: 3
+# Summary: Checking of the functionality of the ranked match of the RPG MOBA (Mobile Legends app) from mobile device.
+# Description: Сhecking how a hero is selected in a ranked match RPG MOBA (Mobile Legends app) from mobile device (Iphone 8, 14.4.2).
+# Act.: The hero in ranked match has already been selected randomly.
+# Exp.: The player should have oppotunity to select hero by himself.
+# Steps to reproduce: 
+1. Open Mobile Legends app on mobile device;
+2. Go to ranked match, wait for acceptance, click button "accept'.
+3. Bug appears.
+# Severity: Medium.
+
+## Bug ID: 4
+# Summary: Checking of the items of the Brisqi app.
+# Description: Opotunity to add description/comments in the text field of the item in the Brisqi app.
+# Act.: The text is truncated when you enter 50 + characters in the text field of the item in the Brisqi app.
+# Exp.: The text is put fully in the text field of the item in the Brisqi app.
+# Steps to reproduce: 
+1. Open Brisqu app;
+2. Open any item;
+3. Put more than 50+ symbols in the text field of the description/comment section and click button "add";
+4. Bug appears.
+# Severity: Medium.
+
